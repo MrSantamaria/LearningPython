@@ -1,0 +1,8 @@
+---
+version: 1
+service:
+  name: LearningPython
+  tier: tier_2
+  alias:
+  - github.com/LearningPython
+  description: LearningPython
